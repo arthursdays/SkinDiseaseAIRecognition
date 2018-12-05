@@ -1,0 +1,753 @@
+{'imagenet': {'url': 'http://data.lip6.fr/cadene/pretrainedmodels/pnasnet5large-bf079911.pth', 'input_space': 'RGB', 'input_size': [3, 331, 331], 'input_range': [0, 1], 'mean': [0.5, 0.5, 0.5], 'std': [0.5, 0.5, 0.5], 'num_classes': 1000}, 'imagenet+background': {'url': 'http://data.lip6.fr/cadene/pretrainedmodels/pnasnet5large-bf079911.pth', 'input_space': 'RGB', 'input_size': [3, 331, 331], 'input_range': [0, 1], 'mean': [0.5, 0.5, 0.5], 'std': [0.5, 0.5, 0.5], 'num_classes': 1001}}
+Epoch 0/299
+----------
+Now lets do training
+train Loss: 2.5081 Acc: 0.0883
+Now lets do valing
+val Loss: 2.3352 Acc: 0.0965
+
+Epoch 1/299
+----------
+Now lets do training
+train Loss: 2.6790 Acc: 0.0968
+Now lets do valing
+val Loss: 2.3029 Acc: 0.0995
+
+Epoch 2/299
+----------
+Now lets do training
+train Loss: 2.5932 Acc: 0.0918
+Now lets do valing
+val Loss: 2.3446 Acc: 0.0995
+
+Epoch 3/299
+----------
+Now lets do training
+train Loss: 2.5537 Acc: 0.0948
+Now lets do valing
+val Loss: 2.3030 Acc: 0.1005
+
+Epoch 4/299
+----------
+Now lets do training
+train Loss: 2.5322 Acc: 0.0938
+Now lets do valing
+val Loss: 2.3038 Acc: 0.0965
+
+Epoch 5/299
+----------
+Now lets do training
+train Loss: 2.4398 Acc: 0.0818
+Now lets do valing
+val Loss: 13.9153 Acc: 0.1005
+
+Epoch 6/299
+----------
+Now lets do training
+train Loss: 2.3940 Acc: 0.0938
+Now lets do valing
+val Loss: 2.2942 Acc: 0.0955
+
+Epoch 7/299
+----------
+Now lets do training
+train Loss: 2.3348 Acc: 0.1129
+Now lets do valing
+val Loss: 2.2959 Acc: 0.1307
+
+Epoch 8/299
+----------
+Now lets do training
+train Loss: 2.3187 Acc: 0.1064
+Now lets do valing
+val Loss: 2.2984 Acc: 0.1095
+
+Epoch 9/299
+----------
+Now lets do training
+train Loss: 2.3126 Acc: 0.0893
+Now lets do valing
+val Loss: 2.3007 Acc: 0.0995
+
+Epoch 10/299
+----------
+Now lets do training
+train Loss: 2.3068 Acc: 0.1079
+Now lets do valing
+val Loss: 2.3687 Acc: 0.1296
+
+Epoch 11/299
+----------
+Now lets do training
+train Loss: 2.3151 Acc: 0.1024
+Now lets do valing
+val Loss: 2.3053 Acc: 0.1005
+
+Epoch 12/299
+----------
+Now lets do training
+train Loss: 2.3098 Acc: 0.1044
+Now lets do valing
+val Loss: 2.3035 Acc: 0.1005
+
+Epoch 13/299
+----------
+Now lets do training
+train Loss: 2.3085 Acc: 0.1019
+Now lets do valing
+val Loss: 2.3043 Acc: 0.1005
+
+Epoch 14/299
+----------
+Now lets do training
+train Loss: 2.3092 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3029 Acc: 0.0995
+
+Epoch 15/299
+----------
+Now lets do training
+train Loss: 2.3090 Acc: 0.0863
+Now lets do valing
+val Loss: 2.3030 Acc: 0.1005
+
+Epoch 16/299
+----------
+Now lets do training
+train Loss: 2.3086 Acc: 0.0968
+Now lets do valing
+val Loss: 2.3042 Acc: 0.1005
+
+Epoch 17/299
+----------
+Now lets do training
+train Loss: 2.3140 Acc: 0.0863
+Now lets do valing
+val Loss: 2.3049 Acc: 0.1005
+
+Epoch 18/299
+----------
+Now lets do training
+train Loss: 2.3148 Acc: 0.1049
+Now lets do valing
+val Loss: 2.3046 Acc: 0.1005
+
+Epoch 19/299
+----------
+Now lets do training
+train Loss: 2.3094 Acc: 0.0988
+Now lets do valing
+val Loss: 2.3078 Acc: 0.1005
+
+Epoch 20/299
+----------
+Now lets do training
+train Loss: 2.3126 Acc: 0.0923
+Now lets do valing
+val Loss: 2.3037 Acc: 0.1005
+
+Epoch 21/299
+----------
+Now lets do training
+train Loss: 2.3100 Acc: 0.0903
+Now lets do valing
+val Loss: 2.3035 Acc: 0.0995
+
+Epoch 22/299
+----------
+Now lets do training
+train Loss: 2.3112 Acc: 0.0968
+Now lets do valing
+val Loss: 2.3060 Acc: 0.1005
+
+Epoch 23/299
+----------
+Now lets do training
+train Loss: 2.3097 Acc: 0.0918
+Now lets do valing
+val Loss: 2.3038 Acc: 0.1005
+
+Epoch 24/299
+----------
+Now lets do training
+train Loss: 2.3096 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3044 Acc: 0.1005
+
+Epoch 25/299
+----------
+Now lets do training
+train Loss: 2.3101 Acc: 0.0838
+Now lets do valing
+val Loss: 2.3037 Acc: 0.1005
+
+Epoch 26/299
+----------
+Now lets do training
+train Loss: 2.3103 Acc: 0.0898
+Now lets do valing
+val Loss: 2.3072 Acc: 0.1005
+
+Epoch 27/299
+----------
+Now lets do training
+train Loss: 2.3099 Acc: 0.0853
+Now lets do valing
+val Loss: 2.3030 Acc: 0.1005
+
+Epoch 28/299
+----------
+Now lets do training
+train Loss: 2.3091 Acc: 0.0883
+Now lets do valing
+val Loss: 2.3044 Acc: 0.1005
+
+Epoch 29/299
+----------
+Now lets do training
+train Loss: 2.3115 Acc: 0.0903
+Now lets do valing
+val Loss: 2.3055 Acc: 0.0965
+
+Epoch 30/299
+----------
+Now lets do training
+train Loss: 2.3091 Acc: 0.0958
+Now lets do valing
+val Loss: 2.3046 Acc: 0.1005
+
+Epoch 31/299
+----------
+Now lets do training
+train Loss: 2.3087 Acc: 0.0948
+Now lets do valing
+val Loss: 2.3037 Acc: 0.1005
+
+Epoch 32/299
+----------
+Now lets do training
+train Loss: 2.3102 Acc: 0.0923
+Now lets do valing
+val Loss: 2.3061 Acc: 0.1005
+
+Epoch 33/299
+----------
+Now lets do training
+train Loss: 2.3092 Acc: 0.1084
+Now lets do valing
+val Loss: 2.3042 Acc: 0.1005
+
+Epoch 34/299
+----------
+Now lets do training
+train Loss: 2.3095 Acc: 0.0943
+Now lets do valing
+val Loss: 2.3067 Acc: 0.1005
+
+Epoch 35/299
+----------
+Now lets do training
+train Loss: 2.3099 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3045 Acc: 0.1005
+
+Epoch 36/299
+----------
+Now lets do training
+train Loss: 2.3111 Acc: 0.0983
+Now lets do valing
+val Loss: 2.3039 Acc: 0.1005
+
+Epoch 37/299
+----------
+Now lets do training
+train Loss: 2.3076 Acc: 0.1004
+Now lets do valing
+val Loss: 2.3067 Acc: 0.1005
+
+Epoch 38/299
+----------
+Now lets do training
+train Loss: 2.3091 Acc: 0.0933
+Now lets do valing
+val Loss: 2.3064 Acc: 0.1005
+
+Epoch 39/299
+----------
+Now lets do training
+train Loss: 2.3106 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3054 Acc: 0.1005
+
+Epoch 40/299
+----------
+Now lets do training
+train Loss: 2.3097 Acc: 0.0998
+Now lets do valing
+val Loss: 2.3131 Acc: 0.1005
+
+Epoch 41/299
+----------
+Now lets do training
+train Loss: 2.3109 Acc: 0.0933
+Now lets do valing
+val Loss: 2.3039 Acc: 0.1005
+
+Epoch 42/299
+----------
+Now lets do training
+train Loss: 2.3107 Acc: 0.0923
+Now lets do valing
+val Loss: 2.3042 Acc: 0.1005
+
+Epoch 43/299
+----------
+Now lets do training
+train Loss: 2.3087 Acc: 0.0903
+Now lets do valing
+val Loss: 2.3056 Acc: 0.1005
+
+Epoch 44/299
+----------
+Now lets do training
+train Loss: 2.3103 Acc: 0.0948
+Now lets do valing
+val Loss: 2.3043 Acc: 0.1005
+
+Epoch 45/299
+----------
+Now lets do training
+train Loss: 2.3098 Acc: 0.0903
+Now lets do valing
+val Loss: 2.3065 Acc: 0.1005
+
+Epoch 46/299
+----------
+Now lets do training
+train Loss: 2.3100 Acc: 0.0933
+Now lets do valing
+val Loss: 2.3050 Acc: 0.0995
+
+Epoch 47/299
+----------
+Now lets do training
+train Loss: 2.3088 Acc: 0.1009
+Now lets do valing
+val Loss: 2.3052 Acc: 0.1005
+
+Epoch 48/299
+----------
+Now lets do training
+train Loss: 2.3092 Acc: 0.1019
+Now lets do valing
+val Loss: 2.3098 Acc: 0.0995
+
+Epoch 49/299
+----------
+Now lets do training
+train Loss: 2.3099 Acc: 0.0888
+Now lets do valing
+val Loss: 2.3119 Acc: 0.1005
+
+Epoch 50/299
+----------
+Now lets do training
+train Loss: 2.3120 Acc: 0.0913
+Now lets do valing
+val Loss: 2.3050 Acc: 0.0995
+
+Epoch 51/299
+----------
+Now lets do training
+train Loss: 2.3109 Acc: 0.0888
+Now lets do valing
+val Loss: 2.3035 Acc: 0.1005
+
+Epoch 52/299
+----------
+Now lets do training
+train Loss: 2.3091 Acc: 0.0938
+Now lets do valing
+val Loss: 2.3043 Acc: 0.1005
+
+Epoch 53/299
+----------
+Now lets do training
+train Loss: 2.3084 Acc: 0.1009
+Now lets do valing
+val Loss: 2.3065 Acc: 0.1005
+
+Epoch 54/299
+----------
+Now lets do training
+train Loss: 2.3093 Acc: 0.0953
+Now lets do valing
+val Loss: 2.3052 Acc: 0.1005
+
+Epoch 55/299
+----------
+Now lets do training
+train Loss: 2.3108 Acc: 0.0903
+Now lets do valing
+val Loss: 2.3040 Acc: 0.1005
+
+Epoch 56/299
+----------
+Now lets do training
+train Loss: 2.3098 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3065 Acc: 0.1005
+
+Epoch 57/299
+----------
+Now lets do training
+train Loss: 2.3096 Acc: 0.0928
+Now lets do valing
+val Loss: 2.3033 Acc: 0.1005
+
+Epoch 58/299
+----------
+Now lets do training
+train Loss: 2.3082 Acc: 0.1034
+Now lets do valing
+val Loss: 2.3106 Acc: 0.0965
+
+Epoch 59/299
+----------
+Now lets do training
+train Loss: 2.3091 Acc: 0.0883
+Now lets do valing
+val Loss: 2.3045 Acc: 0.1005
+
+Epoch 60/299
+----------
+Now lets do training
+train Loss: 2.3040 Acc: 0.1054
+Now lets do valing
+val Loss: 2.3037 Acc: 0.1005
+
+Epoch 61/299
+----------
+Now lets do training
+train Loss: 2.3051 Acc: 0.0923
+Now lets do valing
+val Loss: 2.3033 Acc: 0.1005
+
+Epoch 62/299
+----------
+Now lets do training
+train Loss: 2.3044 Acc: 0.1019
+Now lets do valing
+val Loss: 2.3030 Acc: 0.1005
+
+Epoch 63/299
+----------
+Now lets do training
+train Loss: 2.3044 Acc: 0.0988
+Now lets do valing
+val Loss: 2.3028 Acc: 0.1005
+
+Epoch 64/299
+----------
+Now lets do training
+train Loss: 2.3037 Acc: 0.0908
+Now lets do valing
+val Loss: 2.3027 Acc: 0.1005
+
+Epoch 65/299
+----------
+Now lets do training
+train Loss: 2.3031 Acc: 0.0918
+Now lets do valing
+val Loss: 2.3027 Acc: 0.1005
+
+Epoch 66/299
+----------
+Now lets do training
+train Loss: 2.3036 Acc: 0.0983
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 67/299
+----------
+Now lets do training
+train Loss: 2.3056 Acc: 0.0933
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 68/299
+----------
+Now lets do training
+train Loss: 2.3038 Acc: 0.0993
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 69/299
+----------
+Now lets do training
+train Loss: 2.3021 Acc: 0.1139
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 70/299
+----------
+Now lets do training
+train Loss: 2.3027 Acc: 0.1144
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 71/299
+----------
+Now lets do training
+train Loss: 2.3034 Acc: 0.1014
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 72/299
+----------
+Now lets do training
+train Loss: 2.3033 Acc: 0.1084
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 73/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.1089
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 74/299
+----------
+Now lets do training
+train Loss: 2.3043 Acc: 0.0858
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 75/299
+----------
+Now lets do training
+train Loss: 2.3048 Acc: 0.0858
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 76/299
+----------
+Now lets do training
+train Loss: 2.3046 Acc: 0.0918
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 77/299
+----------
+Now lets do training
+train Loss: 2.3038 Acc: 0.1024
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 78/299
+----------
+Now lets do training
+train Loss: 2.3055 Acc: 0.0928
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 79/299
+----------
+Now lets do training
+train Loss: 2.3028 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 80/299
+----------
+Now lets do training
+train Loss: 2.3039 Acc: 0.0883
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 81/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.1034
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 82/299
+----------
+Now lets do training
+train Loss: 2.3042 Acc: 0.1014
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 83/299
+----------
+Now lets do training
+train Loss: 2.3051 Acc: 0.0853
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 84/299
+----------
+Now lets do training
+train Loss: 2.3045 Acc: 0.0958
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 85/299
+----------
+Now lets do training
+train Loss: 2.3025 Acc: 0.0993
+Now lets do valing
+val Loss: 2.3026 Acc: 0.1005
+
+Epoch 86/299
+----------
+Now lets do training
+train Loss: 2.3029 Acc: 0.0958
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 87/299
+----------
+Now lets do training
+train Loss: 2.3026 Acc: 0.1079
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 88/299
+----------
+Now lets do training
+train Loss: 2.3033 Acc: 0.0948
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 89/299
+----------
+Now lets do training
+train Loss: 2.3031 Acc: 0.0963
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 90/299
+----------
+Now lets do training
+train Loss: 2.3030 Acc: 0.0993
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 91/299
+----------
+Now lets do training
+train Loss: 2.3030 Acc: 0.1029
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 92/299
+----------
+Now lets do training
+train Loss: 2.3038 Acc: 0.0938
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 93/299
+----------
+Now lets do training
+train Loss: 2.3041 Acc: 0.0938
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 94/299
+----------
+Now lets do training
+train Loss: 2.3034 Acc: 0.1029
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 95/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.0933
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 96/299
+----------
+Now lets do training
+train Loss: 2.3033 Acc: 0.0928
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 97/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.0983
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 98/299
+----------
+Now lets do training
+train Loss: 2.3038 Acc: 0.0978
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 99/299
+----------
+Now lets do training
+train Loss: 2.3037 Acc: 0.0998
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 100/299
+----------
+Now lets do training
+train Loss: 2.3034 Acc: 0.0948
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 101/299
+----------
+Now lets do training
+train Loss: 2.3041 Acc: 0.0908
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 102/299
+----------
+Now lets do training
+train Loss: 2.3023 Acc: 0.0943
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 103/299
+----------
+Now lets do training
+train Loss: 2.3038 Acc: 0.0953
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 104/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.0953
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 105/299
+----------
+Now lets do training
+train Loss: 2.3032 Acc: 0.0898
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 106/299
+----------
+Now lets do training
+train Loss: 2.3028 Acc: 0.1039
+Now lets do valing
+val Loss: 2.3025 Acc: 0.1005
+
+Epoch 107/299
+----------
+Now lets do training
